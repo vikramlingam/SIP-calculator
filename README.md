@@ -1,3 +1,3 @@
 SIP Calculators
 
-As simple streamlit app
+As simple HTML website for SIP calculators
